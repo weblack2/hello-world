@@ -1,2 +1,3 @@
 # hello-world
-Practice
+
+The quick brown fox jumps over the lazy dog.
